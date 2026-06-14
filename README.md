@@ -15,4 +15,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ### Portfolio
 
-See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/)..
+See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/).
